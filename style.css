@@ -43,7 +43,7 @@ body {
 .textBg {
   background: #313534;
   color: #fff;
-  padding: 20px;
+  padding: 25px;
 }
 
 .section {
@@ -52,9 +52,9 @@ body {
 }
 .section-light {
   background-color: #f4f4f4;
-  color: #666;
+  color: black;
 }
 .section-dark {
   background-color: #282e34;
-  color: #ddd;
+  color: white;
 }
